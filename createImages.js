@@ -47,17 +47,17 @@ createSolidColorImage("#00ff00", 100, 100, "00ff00.png");
 // Create a 100x100 image with solid blue color
 createSolidColorImage("#0000ff", 100, 100, "0000ff.png");
 
-// Create a 100x100 image with a gradient from blue to white
-createGradientColorImage("#0000ff", "#ffffff", 100, 100, "gradient_blue_white.png");
+// // Create a 100x100 image with a gradient from blue to white
+// createGradientColorImage("#0000ff", "#ffffff", 100, 100, "gradient_blue_white.png");
 
 // Example of Solid Color Image - Deep Purple
-createSolidColorImage("#673AB7", 100, 100, "solid_purple.png");
+createSolidColorImage("#673AB7", 100, 100, "673AB7.png");
 
-// Example of Gradient Color Image - Orange to Black
-createGradientColorImage("#FFA500", "#000000", 100, 100, "gradient_orange_black.png");
+// // Example of Gradient Color Image - Orange to Black
+// createGradientColorImage("#FFA500", "#000000", 100, 100, "gradient_orange_black.png");
 
 // Example of Solid Color Image - Vibrant Turquoise
-createSolidColorImage("#40E0D0", 100, 100, "solid_turquoise.png");
+createSolidColorImage("#40E0D0", 100, 100, "40E0D0.png");
 
-// Example of Gradient Color Image - Light Pink to Deep Blue
-createGradientColorImage("#FFB6C1", "#0000FF", 100, 100, "gradient_pink_blue.png");
+// // Example of Gradient Color Image - Light Pink to Deep Blue
+// createGradientColorImage("#FFB6C1", "#0000FF", 100, 100, "gradient_pink_blue.png");
